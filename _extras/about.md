@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Data ITS 2017
 permalink: /about/
 ---
 {% include carpentries.html %}
