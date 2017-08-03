@@ -211,8 +211,8 @@ workshop_site: "https://swcarpentry.github.io/workshop-template"
 training_site: "https://swcarpentry.github.io/instructor-training"
 
 # Surveys.
-swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
-swc_post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
+swc_pre_survey: "https://www.surveymonkey.com/r/R32NVYB"
+swc_post_survey: "https://www.surveymonkey.com/r/RG3QGVX"
 dc_pre_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id="
 dc_post_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id="
 training_post_survey: "https://www.surveymonkey.com/r/post-instructor-training"
